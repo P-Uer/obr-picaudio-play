@@ -1,0 +1,12 @@
+{
+  "name": "Audio Player",
+  "version": "0.1.1",
+  "manifest_version": 1,
+  "action": {
+    "title": "Audio Player",
+    "icon": "https://p-uer.github.io/obr-picaudio-play/icon.svg",
+    "popover": "https://p-uer.github.io/obr-picaudio-play/",
+    "height": 540,
+    "width": 380
+  }
+}

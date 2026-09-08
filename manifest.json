@@ -1,9 +1,10 @@
 {
   "name": "yituPicBGM",
-  "version": "0.3.13",
+  "version": "0.3.14",
   "manifest_version": 1,
   "author": "恐惧の花生王一土",
   "description": "播放PNG的音频给你的玩家们",
+  "icon": "https://p-uer.github.io/obr-picaudio-play/icon.svg",
   "action": {
     "title": "yituPicBGM",
     "icon": "https://p-uer.github.io/obr-picaudio-play/icon.svg",

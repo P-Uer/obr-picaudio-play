@@ -1,9 +1,9 @@
 {
-  "name": "Audio Player",
-  "version": "0.3.0",
+  "name": "yituBGM",
+  "version": "0.3.1",
   "manifest_version": 1,
   "action": {
-    "title": "Audio Player",
+    "title": "yituBGM",
     "icon": "https://p-uer.github.io/obr-picaudio-play/icon.svg",
     "popover": "https://p-uer.github.io/obr-picaudio-play/",
     "height": 540,

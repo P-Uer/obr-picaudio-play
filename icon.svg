@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
   <rect width="128" height="128" fill="#ffffff"/>
-  <text x="64" y="96" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="96" font-weight="700" fill="#c7d2fe" text-anchor="middle">土</text>
+  <!-- "土" 字用 path 绘制，不依赖任何字体，避免无中文字体时变成豆腐方块 -->
+  <path fill="#c7d2fe" d="M32 22 H96 V36 H70 V90 H100 V104 H28 V90 H58 V36 H32 Z"/>
   <g fill="none" stroke="#4f6ef7" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
     <path d="M54 96 V34 l40 -8 v50"/>
     <circle cx="42" cy="96" r="13"/>
